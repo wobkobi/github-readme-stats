@@ -117,6 +117,12 @@ export const themes = {
     text_color: "f1f1eb",
     bg_color: "272822",
   },
+  "monokai-pro-spectrum": {
+    title_color: "fb649a",
+    icon_color: "fa9954",
+    text_color: "dbdbdb",
+    bg_color: "222222",
+  },
   vue: {
     title_color: "41b883",
     icon_color: "41b883",
